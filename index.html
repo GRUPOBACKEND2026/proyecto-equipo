@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Página del equipo Proyecto del Grupo 1.">
+  <title>Proyecto del Grupo 1</title>
+  <link rel="stylesheet" href="css/estilos.css">
+  <script src="js/app.js" defer></script>
+</head>
+<body>
+  <main class="contenedor">
+    <header class="encabezado">
+      <p class="etiqueta">Nuestro proyecto en GitHub</p>
+      <h1 id="nombre-proyecto">Cargando proyecto...</h1>
+      <p id="descripcion-proyecto" class="descripcion"></p>
+      <p class="version">Versión <span id="version-proyecto">—</span></p>
+    </header>
+
+    <section aria-labelledby="titulo-equipo">
+      <h2 id="titulo-equipo">Integrantes del equipo</h2>
+      <div id="integrantes" class="integrantes" aria-live="polite"></div>
+    </section>
+
+    <p id="aviso-error" class="aviso-error" role="alert" hidden>
+      No se pudieron cargar los datos del equipo. Comprueba que datos/equipo.json
+      exista y abre la página con un servidor local o desde GitHub Pages.
+    </p>
+  </main>
+</body>
+</html>
