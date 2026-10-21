@@ -1,0 +1,34 @@
+{
+  "proyecto": {
+    "nombre": "Proyecto del Grupo 1",
+    "descripcion": "Página del equipo construida en GitHub con ramas, Pull Requests y revisión de código.",
+    "version": "1.0.0"
+  },
+  "integrantes": [
+    {
+      "nombre": "Juan david lopez galeano",
+      "rol": "Líder",
+      "github": "juandavidlopezgaleano99-alt"
+    },
+    {
+      "nombre": "Mariana Angel Buitrago",
+      "rol": "Frontend",
+      "github": "Marianita12"
+    },
+    {
+      "nombre": "juan david lopez galeano",
+      "rol": "Backend",
+      "github": "juandavidlopezgaleano99-alt"
+    },
+    {
+      "nombre": "Juandiego Rosas Reyes",
+      "rol": "Tester",
+      "github": "DarksuneOficial"
+    },
+    {
+      "nombre": "Pablo Esteban Leytton Viloria",
+      "rol": "Documentadora",
+      "github": "PabloElHackerr"
+    }
+  ]
+}
