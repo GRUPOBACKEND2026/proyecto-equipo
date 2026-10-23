@@ -12,7 +12,7 @@ Página del equipo construida en GitHub con ramas, Pull Requests y revisión de 
 | Mariana Angel Buitrago | Frontend | [Marianita12](https://github.com/Marianita12) |
 | juan david lopez galeano | Backend | [juandavidlopezgaleano99-alt](https://github.com/juandavidlopezgaleano99-alt) |
 | Juandiego Rosas Reyes | Tester | [DarksuneOficial](https://github.com/DarksuneOficial) |
-| Pablo Esteban Leytton Viloria | Documentadora | [PabloElHackerr](https://github.com/PabloElHackerr) |
+| Pablo Esteban Leytton Viloria | Documentador | [PabloElHackerr](https://github.com/PabloElHackerr) |
 
 ## Ramas
 
