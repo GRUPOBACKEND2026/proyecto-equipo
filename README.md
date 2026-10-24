@@ -35,3 +35,4 @@ Las ramas de trabajo salen de `develop`. El trabajo se integra mediante Pull Req
 4. Verificar que `datos/equipo.json` esté en la raíz del repositorio, junto a `index.html`.
 
 El navegador debe abrir la página desde un servidor local para que `fetch` pueda leer el archivo JSON.
+.
